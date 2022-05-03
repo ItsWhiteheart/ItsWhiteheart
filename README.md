@@ -1,6 +1,4 @@
- Hi, I’m Ara.atom_symbol
-white_heart 
-seedling Currently studying -> AI / ML
+ Hi, I’m Ara.atom_symbol. I am IC Designer. Currently studying -> AI / ML
 
 <!---
 ItsWhiteheart/ItsWhiteheart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
